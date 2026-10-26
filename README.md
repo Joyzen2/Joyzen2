@@ -10,6 +10,7 @@
 **在这里看**
 
 - [研究网站](https://joyzen2.github.io)：主线研究、数据与政策点评、专题复盘
+- [AI 投研工程开发](https://joyzen2.github.io/ai-research/)：研报检索、需求拆解与上线闸门，每一步不偷看未来
 - [macro-rates-research](https://github.com/Joyzen2/macro-rates-research)：研究代码、测试和汇总结果
 - [bond-analytics](https://github.com/Joyzen2/bond-analytics)：债券计算，久期、凸性、关键期限久期、票息和骑乘
 - [quant-research-agent](https://github.com/Joyzen2/quant-research-agent)：投研 Agent，自动取数、成文、核验数字
