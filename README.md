@@ -1,15 +1,16 @@
-<a href="https://joyzen2.github.io"><img src="images/site-hero.png" alt="网站首页：2022 年 8 月 15 日首发降息，整条国债收益率曲线下移约 10bp，红色是意外带来的下移" width="100%"></a>
+<a href="https://joyzen2.github.io"><img src="images/home-hero.jpg" alt="个人网站首页：在无序中，看见可能" width="100%"></a>
 
 ### 金正 Zheng Jin · 宏观利率研究
 
 我研究一个问题：**宏观信息在市场价格之外，能给固收组合带来什么增量。**
 我的回答：宏观信息要和市场已经反映的预期比，才谈得上增量。
 
-<a href="https://joyzen2.github.io"><img src="images/site-findings.png" alt="三个发现：利率只为意外定价；宏观状态择时不灵；有增量的是期权，不是宏观" width="100%"></a>
+<a href="https://joyzen2.github.io"><img src="images/home-research.jpg" alt="网站第二屏：宏观研究、量化策略、AI 投研三个研究方向" width="100%"></a>
 
 **在这里看**
 
-- [研究网站](https://joyzen2.github.io)：主线研究、数据与政策点评、专题复盘
+- [个人网站](https://joyzen2.github.io)：宏观、量化、AI 投研三个方向，以及经历与成果
+- [宏观研究站](https://joyzen2.github.io/macro)：主线研究、数据与政策点评、专题复盘
 - [AI 投研工程开发](https://joyzen2.github.io/ai-research/)：研报检索、需求拆解与上线闸门，每一步不偷看未来
 - [macro-rates-research](https://github.com/Joyzen2/macro-rates-research)：研究代码、测试和汇总结果
 - [bond-analytics](https://github.com/Joyzen2/bond-analytics)：债券计算，久期、凸性、关键期限久期、票息和骑乘
